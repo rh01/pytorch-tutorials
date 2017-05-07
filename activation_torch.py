@@ -37,5 +37,4 @@ plt.plot(x_np, y_softplus, c='red', label='softplus')
 plt.ylim((-0.2, 6))
 plt.legend(loc='best')
 
-# plt.imshow()
 plt.show()
